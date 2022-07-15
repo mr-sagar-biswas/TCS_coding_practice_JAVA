@@ -1,4 +1,4 @@
-
+/*convert time from 12hour format to 24 hour format */
 import java.io.*;
 
 public class TimeConversion {
