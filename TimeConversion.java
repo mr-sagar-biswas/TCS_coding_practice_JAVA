@@ -1,7 +1,7 @@
-/*convert time from 12hour format to 24 hour format */
+
 import java.io.*;
 
-public class TimeConversion {
+public class TimeConversion{
     public static void main(String[] args) throws IOException {
         BufferedReader br =  new BufferedReader(new InputStreamReader(System.in));
         String time = br.readLine();

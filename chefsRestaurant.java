@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class chefsRestaurant {
+public class chefsRestaurant{
     static boolean isPossible(int[] scedule,int mid,int entry){
         if(entry<=scedule[mid]){
             return true;
